@@ -1,4 +1,6 @@
-public class Lists1Exercises {
+package lec4_lists1;
+
+public class List1Exercises {
     /** Returns an IntList identical to L, but with
       * each element incremented by x. L is not allowed
       * to change. */
