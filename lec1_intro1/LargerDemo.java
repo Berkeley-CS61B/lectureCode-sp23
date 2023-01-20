@@ -10,7 +10,7 @@ public class LargerDemo {
 	}
 
 	public static void main(String[] args) {
-		// System.out.println(larger(-5.5, 10));
+		System.out.println(larger(3, 10));
 	}
 } 
 
