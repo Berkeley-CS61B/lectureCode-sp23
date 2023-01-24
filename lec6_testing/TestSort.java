@@ -1,4 +1,4 @@
-package lec3_testing;
+package lec6_testing;
 
 //The line below means we can just say "Test" and
 //our code will automatically know it refers to org.junit.Test

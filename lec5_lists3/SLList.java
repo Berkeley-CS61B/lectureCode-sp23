@@ -1,4 +1,4 @@
-package lec6_lists3;
+package lec5_lists3;
 
 /** An SLList is a list of integers, which hides the terrible truth
    * of the nakedness within. */

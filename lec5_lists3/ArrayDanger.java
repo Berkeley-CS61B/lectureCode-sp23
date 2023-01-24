@@ -1,4 +1,4 @@
-package lec6_lists3;
+package lec5_lists3;
 
 /**
  *  @author Josh Hug

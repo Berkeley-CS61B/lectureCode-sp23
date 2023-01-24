@@ -1,4 +1,4 @@
-package lec5_lists2.DIY;
+package lec4_lists2.DIY;
 
 /** This is a fill in the blanks version of the SLList class
  *  in case you want to try to figure out how to write it yourself.

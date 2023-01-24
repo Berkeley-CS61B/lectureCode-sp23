@@ -1,4 +1,4 @@
-package lec5_lists2;
+package lec4_lists2;
 
 public class IntList {
 	public int first;

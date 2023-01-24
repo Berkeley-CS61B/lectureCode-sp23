@@ -1,4 +1,4 @@
-package lec3_testing;
+package lec6_testing;
 
 public class Sort {
 	/** Sort the strings in alphabetical order. */
