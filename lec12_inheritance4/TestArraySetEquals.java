@@ -1,9 +1,9 @@
 package lec12_inheritance4;
 
-import org.junit.Test;
+import org.junit.jupiter.api.Test;
 
-import static org.junit.Assert.assertEquals;
-import static org.junit.Assert.assertNotEquals;
+import static com.google.common.truth.Truth.assertThat;
+
 
 /**
  * Created by hug.
@@ -22,7 +22,7 @@ public class TestArraySetEquals {
         aset2.add(23);
         aset2.add(42);
 
-       assertEquals(aset, aset2);
+       assertThat(aset).isEqualTo(aset2);
     }
 
     @Test
@@ -39,7 +39,7 @@ public class TestArraySetEquals {
         aset2.add(23);
         aset2.add(42);
 
-        assertNotEquals(aset, aset2);
+        assertThat(aset).isNotEqualTo(aset2);
     }
 
     @Test
@@ -56,6 +56,6 @@ public class TestArraySetEquals {
         aset2.add(42);
         aset2.add(36);
 
-        assertNotEquals(aset, aset2);
+        assertThat(aset).isNotEqualTo(aset2);
     }
 }
