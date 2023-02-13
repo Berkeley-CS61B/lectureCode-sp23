@@ -1,4 +1,4 @@
-package lec11_inheritance4;
+package lec12_inheritance4;
 
 import java.util.Iterator;
 

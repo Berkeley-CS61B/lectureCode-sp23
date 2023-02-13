@@ -1,4 +1,4 @@
-package lec10_inheritance3;
+package lec11_inheritance3;
 
 /**
  * Created by jug on 2/7/18.

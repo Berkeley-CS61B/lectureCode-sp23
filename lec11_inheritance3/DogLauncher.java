@@ -1,4 +1,4 @@
-package lec10_inheritance3;
+package lec11_inheritance3;
 
 public class DogLauncher {
     public static void main(String[] args) {
